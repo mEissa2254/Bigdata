@@ -1,0 +1,4 @@
+Top 3 fields with highest average job offers: Field_of_Study
+5    0.502819
+6    0.501597
+0    0.500668
