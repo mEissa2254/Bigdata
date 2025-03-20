@@ -1,0 +1,4 @@
+Percentage of entrepreneurs by gender: Gender
+0    20.301058
+1    20.468085
+2    14.583333%
